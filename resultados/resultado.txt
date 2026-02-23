@@ -1,0 +1,14 @@
+Parágrafo 3: 
+Palavra: uma - N° de ocorrências: 2
+
+Parágrafo 7: 
+Palavra: dispositivos - N° de ocorrências: 2, 
+Palavra: web - N° de ocorrências: 2, 
+Palavra: seu - N° de ocorrências: 3, 
+Palavra: conectado - N° de ocorrências: 2
+
+Parágrafo 8: 
+Palavra: cliente - N° de ocorrências: 2, 
+Palavra: uma - N° de ocorrências: 2, 
+Palavra: para - N° de ocorrências: 2
+
