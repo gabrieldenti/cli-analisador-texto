@@ -2,7 +2,7 @@
 
 Uma ferramenta de linha de comando (CLI) desenvolvida em **Node.js** para analisar arquivos de texto e identificar palavras repetidas em cada parágrafo. 
 
-> **🎓 Sobre o Projeto:** Este projeto foi desenvolvido passo a passo através de um curso prático de programação. O foco principal do aprendizado foi a manipulação de arquivos do sistema (File System), o processamento de strings (arrays e objetos) e a criação de interfaces de terminal interativas.
+> **🎓 Sobre o Projeto:** Este projeto foi desenvolvido passo a passo através de um curso prático de programação da alura. O foco principal do aprendizado foi a manipulação de arquivos do sistema (File System), o processamento de strings (arrays e objetos) e a criação de interfaces de terminal interativas.
 
 ## ✨ Funcionalidades
 
