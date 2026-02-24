@@ -2,7 +2,7 @@
 
 Uma ferramenta de linha de comando (CLI) desenvolvida em **Node.js** para analisar arquivos de texto e identificar palavras repetidas em cada parágrafo. 
 
-> **🎓 Sobre o Projeto:** Este projeto foi desenvolvido passo a passo através de um curso prático de programação da alura. O foco principal do aprendizado foi a manipulação de arquivos do sistema (File System), o processamento de strings (arrays e objetos) e a criação de interfaces de terminal interativas.
+> **🎓 Sobre o Projeto:** Este projeto foi desenvolvido passo a passo através de um curso prático de programação da Alura. O foco principal do aprendizado foi a manipulação de arquivos do sistema (File System), o processamento de strings (arrays e objetos) e a criação de interfaces de terminal interativas.
 
 ## ✨ Funcionalidades
 
@@ -38,7 +38,7 @@ Para que a ferramenta analise o texto que você quer, é preciso adicionar os ar
 
 2. Acesse a pasta do projeto:
 
-    cd cli-analisador-texto
+    cd cli-analisador-texto(caso não esteja nela)
 
 3. Instale as dependências necessárias (Chalk e Commander):
 
@@ -46,9 +46,9 @@ Para que a ferramenta analise o texto que você quer, é preciso adicionar os ar
 
 4. Execute o programa passando o caminho do seu arquivo de texto (`-t`) e o diretório onde o relatório será salvo (`-d`):
 
-    node src/cli.js -t ./arquivos/NOME_DO_SEU_ARQUIVO.txt -d ./resultados
+    node src/cli.js -t arquivos/NOME_DO_SEU_ARQUIVO.txt -d resultados
 
-> **Nota:** Após a execução com sucesso, um arquivo chamado `resultado.txt` será gerado automaticamente dentro da pasta informada no destino (`./resultados`), contendo a análise do seu texto.
+> **Nota:** Após a execução com sucesso, um arquivo chamado `resultado.txt` será gerado automaticamente dentro da pasta informada no destino (`resultados`), contendo a análise do seu texto.
 
 ## 📂 Estrutura do Projeto
 
